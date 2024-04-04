@@ -11,4 +11,5 @@ ya luego lo ponemos
 ### Como Funciona
 monse
 ### Posibles Mejoras a Futuro
-zzz
+Podriamos hacerlo en una pagina web para que el profe se lo pueda mostrar a sus compañeros??
+ni idea pero si falta pulir el codigo, ponerlo en modulos y poner una mejor distribucion de las clases
