@@ -4,7 +4,7 @@
 ### Enunciado
 
 Criptografía:
-Encripte el contenido de un archivo de bloc de notas y envíelo a uncompañero, adjuntando la clave privada, para que pueda desencriptarlo. Elprograma por implementar debe encriptar y desencriptar.
+Encripte el contenido de un archivo de bloc de notas y envíelo a uncompañero, adjuntando la clave privada, para que pueda desencriptarlo. El programa por implementar debe encriptar y desencriptar.
 
 ### Modelo de Solucion
 ya luego lo ponemos
