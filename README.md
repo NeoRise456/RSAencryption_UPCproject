@@ -6,10 +6,3 @@
 Criptografía:
 Encripte el contenido de un archivo de bloc de notas y envíelo a uncompañero, adjuntando la clave privada, para que pueda desencriptarlo. El programa por implementar debe encriptar y desencriptar.
 
-### Modelo de Solucion
-ya luego lo ponemos
-### Como Funciona
-monse
-### Posibles Mejoras a Futuro
-Podriamos hacerlo en una pagina web para que el profe se lo pueda mostrar a sus compañeros??
-ni idea pero si falta pulir el codigo, ponerlo en modulos y poner una mejor distribucion de las clases
